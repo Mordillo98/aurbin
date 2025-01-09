@@ -1,3 +1,4 @@
 linux-6.9.3.arch1-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
 dmenu-git-5.3.r3.475d809-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
 dmenu-git-debug-5.3.r3.475d809-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
+oblogout-py3-git-0.03.r7.gff2b059-1-any.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
